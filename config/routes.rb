@@ -9,7 +9,7 @@ Testapp::Application.routes.draw do
 
   get "users/credit"
 
-  :Fname => 'Bryce', :Lname => 'Jobs', :email => 'brice892007@yahoo.fr' 
+ 
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
